@@ -5,6 +5,7 @@ import { combineClasses } from '../../Utils/jss.js';
 const styles = theme => ({
   content: {
     maxWidth: 960,
+    width: '100%',
     margin: '0 auto',
   },
 });

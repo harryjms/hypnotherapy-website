@@ -1,4 +1,5 @@
-import React from "react";
+import React from 'react';
+import Content from '../../Components/Layout/Content.jsx';
 
 class Home extends React.Component {
   constructor(props) {
@@ -6,7 +7,7 @@ class Home extends React.Component {
   }
 
   render() {
-    return <div>Home</div>;
+    return <Content>Home</Content>;
   }
 }
 
