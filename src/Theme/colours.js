@@ -1,3 +1,4 @@
 export default {
-  blue: "#3670E4"
+  primaryLink: '#EDABCB',
+  blue: '#3670E4',
 };

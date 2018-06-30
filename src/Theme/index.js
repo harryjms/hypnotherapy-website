@@ -1,7 +1,9 @@
-import colours from "./colours";
+import colours from './colours';
+import borders from './borders';
 
 const theme = {
-  colours
+  colours,
+  borders,
 };
 
 export default theme;
